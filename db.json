@@ -76,6 +76,16 @@
       {"en": "Spaghetti" ,"jp": "スパゲティ"},
       {"en": "potato" ,"jp": "ポテト"},
       {"en": "pizza" ,"jp": "ピザ"},
-      {"en": "salad" ,"jp": "サラダ"}
-   ]
+      {"en": "salad" ,"jp": "サラダ"},
+      {"en": "beautiful" ,"jp": "きれい"},
+      {"en": "handsome" ,"jp": "ハンサム"},
+      {"en": "cute" ,"jp": "かわいい"},
+      {"en": "sibling, siblings" ,"jp": "きょうだい"},
+      {"en": "who" ,"jp": "だれ"},
+      {"en": "" ,"jp": "あります"},
+      {"en": "" ,"jp": "います"},
+      {"en": "" ,"jp": "プール"},
+      {"en": "" ,"jp": "きょうしつ"},
+      {"en": "" ,"jp": "いえ"}
+    ]
   }
