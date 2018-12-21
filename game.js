@@ -1,6 +1,7 @@
 const axios = require('axios');
 const vocabularyUrl = 'http://localhost:3000/vocabulary';
-var random = require('lodash/random');
+const random = require('lodash/random');
+const exec = require('child_process').exec
 
 // Make a request for a user with a given ID
 axios.get(vocabularyUrl)
@@ -8,8 +9,9 @@ axios.get(vocabularyUrl)
     // handle success
     const vocabularyLength = response.data.length;
     let randomIndex = random(vocabularyLength)
-
-    console.log(response.data[randomIndex].jp);
+    let word = response.data[randomIndex].jp;
+    console.log(word);
+    exec(`say -v kyoko -r 100 ${word}`, (err, stdout, stderr) => console.log(stdout))
   })
   .catch(function (error) {
     // handle error

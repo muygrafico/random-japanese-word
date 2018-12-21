@@ -82,10 +82,21 @@
       {"en": "cute" ,"jp": "かわいい"},
       {"en": "sibling, siblings" ,"jp": "きょうだい"},
       {"en": "who" ,"jp": "だれ"},
-      {"en": "" ,"jp": "あります"},
-      {"en": "" ,"jp": "います"},
-      {"en": "" ,"jp": "プール"},
-      {"en": "" ,"jp": "きょうしつ"},
-      {"en": "" ,"jp": "いえ"}
+      {"en": "there, there is" ,"jp": "あります"},
+      {"en": "there, there is" ,"jp": "います"},
+      {"en": "pool, swimming pool" ,"jp": "プール"},
+      {"en": "classroom" ,"jp": "きょうしつ"},
+      {"en": "house" ,"jp": "いえ"},
+      {"en": "home" ,"jp": "うち"},
+      {"en": "park" ,"jp": "こうえん"},
+      {"en": "phone" ,"jp": "でんわ"},
+      {"en": "mail box" ,"jp": "ポスト"},
+      {"en": "table" ,"jp": "テーブル"},
+      {"en": "cat" ,"jp": "ねこ"},
+      {"en": "room" ,"jp": "へや"},
+      {"en": "police station, small police station" ,"jp": "こうばん"},
+      {"en": "taxi" ,"jp": "タクシー"},
+      {"en": "bus" ,"jp": "バス"},
+      {"en": "police station, small police station" ,"jp": "びょういん"}
     ]
   }
